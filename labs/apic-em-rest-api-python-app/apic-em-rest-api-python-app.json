@@ -1,0 +1,34 @@
+{
+  "labId": "apic-em-rest-api-python-app",
+  "title": "APIC-EM REST API with POSTMAN and Python Applications",
+  "slug": "Learn how to call APIC-EM's REST APIs using POSTMAN and the Python programming language.",
+  "time": 35,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+    {"title": "APIC-EM"},
+    {"title": "Python"}
+  ],
+  "related": [
+    {
+      "labId": "lab01-controller-basics-and-apic-em",
+      "title": "Controller Basics and APIC-EM"
+    },
+	{
+      "labId": "lab02-apic-em-applications-and-use-cases",
+      "title": "APIC-EM Applications and Use Cases"
+    },
+	{
+	  "labId": "lab04-mission",
+      "title": "APIC-EM Mission"
+	}
+  ],
+  "authors": [
+  	{"name": "Brett Tiller", "email": "brtiller@cisco.com"}
+  ]
+}
