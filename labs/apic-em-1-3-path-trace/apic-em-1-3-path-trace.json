@@ -1,7 +1,7 @@
 {
   "labId": "apic-em-1-3-path-trace",
   "title": "APIC-EM APIs with Python: Part II - Path Trace",
-  "slug": "The purpose of this learning lab is to understand the basics of the APIC-EM Northbound REST API. APIC-EM allows you to develop your own custom controller or add dynamic SDN functionality directly into your own applications.",
+  "slug": "Learn about the APIC-EM Path Trace APIs and REST Fundamentals using Python",
   "time": "20",
   "tags": [
     {"title": "SDN"},
