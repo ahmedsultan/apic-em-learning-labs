@@ -1,11 +1,12 @@
 {
-  "labId": "apic-em-1-3-path-trace",
-  "title": "APIC-EM APIs with Python: Part II - Path Trace",
-  "slug": "Learn about the APIC-EM Path Trace APIs and REST Fundamentals using Python",
-  "time": "20",
+  "labId": "apic-em-policy",
+  "title": "APIC-EM APIs with Python: Part III - Policy Labs",
+  "slug": "Learn about and how to use the APIC-EM Policy based APIs",
+  "time": "30",
   "tags": [
     {"title": "SDN"},
     {"title": "Networking"},
+    {"title": "Intermediate"},
     {"title": "APIC-EM"},
     {"title": "Sandbox"},
     {"title": "Coding"},
@@ -17,7 +18,11 @@
   "files": [
     {"title": "1.md"},
     {"title": "2.md"},
-    {"title": "3.md"}
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"},
+    {"title": "7.md"}
   ],
   "authors": [
   	{"name": "yawchen", "email": "yawchen@cisco.com"}

@@ -1,0 +1,26 @@
+{
+  "labId": "apic-em-path-trace",
+  "title": "APIC-EM APIs with Python: Part II - Path Trace",
+  "slug": "Learn about the APIC-EM Path Trace APIs and REST Fundamentals using Python",
+  "time": "20",
+  "tags": [
+    {"title": "SDN"},
+    {"title": "Networking"},
+    {"title": "APIC-EM"},
+    {"title": "Sandbox"},
+    {"title": "Coding"},
+    {"title": "Python"},
+    {"title": "REST"},
+    {"title": "JSON"}
+  ],
+  "poweredBy": "<a href='https://developer.cisco.com/site/devnet/sandbox/' target=_blank>DevNet Sandbox</a>",
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"}
+  ],
+  "authors": [
+  	{"name": "yawchen", "email": "yawchen@cisco.com"}
+  ],
+  "byod": true
+}
