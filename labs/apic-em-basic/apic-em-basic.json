@@ -1,6 +1,6 @@
 {
   "labId": "apic-em-basic",
-  "title": "APIC-EM APIs with Python: Part I - The Basics",
+  "title": "APIC-EM APIs with Python: Part 1 - The Basics",
   "slug": "The purpose of this learning lab is to understand the basics of the APIC-EM Northbound REST API. APIC-EM allows you to develop your own custom controller or add dynamic SDN functionality directly into your own applications. ",
   "time": "20",
   "tags": [
