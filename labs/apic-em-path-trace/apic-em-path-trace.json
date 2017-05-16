@@ -1,6 +1,6 @@
 {
   "labId": "apic-em-path-trace",
-  "title": "APIC-EM APIs with Python: Part II - Path Trace",
+  "title": "APIC-EM APIs with Python: Part 2 - Path Trace",
   "slug": "Learn about the APIC-EM Path Trace APIs and REST Fundamentals using Python",
   "time": "20",
   "tags": [
