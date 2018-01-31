@@ -17,13 +17,20 @@
   ],
   "poweredBy": "<a href='https://developer.cisco.com/site/devnet/sandbox/' target=_blank>DevNet Sandbox</a>",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},
-    {"title": "7.md"}
+    {"title": "Getting Started",
+     "file": "1.md"},
+    {"title": "Step 2. Policy Tags",
+     "file": "2.md"},
+    {"title": "Step 3:  Policy Tag Association",
+     "file": "3.md"},
+    {"title": "Step 4. The Custom NBAR2 Application",
+     "file": "4.md"},
+    {"title": "Step 5: Previewing a Policy",
+     "file": "5.md"},
+    {"title": "Step 6: Creating and Applying the Policy",
+     "file": "6.md"},
+    {"title": "Step 7: Deleting the Policy, Application, and Tags",
+     "file": "7.md"}
   ],
   "authors": [
   	{"name": "yawchen", "email": "yawchen@cisco.com"}
