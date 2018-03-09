@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs: 
 
-These self-paced interactive tutorials provide instructions for developers to .... 
+These self-paced interactive tutorials provide instructions to learn the basics of the APIC-EM API calls and how to write custom scripts in Python that make APIC-EM API calls.
 
 Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
@@ -12,11 +12,7 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-For your repository, answer these questions: 
-* What does this set of learning lab do?
-* Why is this set of learning lab useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+By default, these lab files are configured to send API calls to a sandboxed Cisco DevNet APIC-EM controller at https://sandboxapicem.cisco.com. You can learn the basics of the APIC-EM API, learn policy-based APIC-EM APIs and how to use them, and how to write custom Python code to communicate with the controller.
 
 ## Contributing
 
