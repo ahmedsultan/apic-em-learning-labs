@@ -5,10 +5,14 @@
   "time": 35,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "APIC-EM REST API",
+     "file": "1.md"},
+    {"title": "Step 2. Generating Code Using Postman",
+     "file": "2.md"},
+    {"title": "Step 3. Writing a Python Script",
+     "file": "3.md"},
+    {"title": "Step 4. The Python Application",
+      "file": "4.md"}
   ],
   "tags": [
     {"title": "APIC-EM"},
