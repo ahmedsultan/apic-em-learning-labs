@@ -16,11 +16,11 @@
   ],
   "poweredBy": "<a href='https://developer.cisco.com/site/devnet/sandbox/' target=_blank>DevNet Sandbox</a>",
   "files": [
-    {"title": "APIC-EM REST API Part 2 - Path Trace",
+    {"title": "Step 1: Execute lab examples",
      "file": "1.md"},
-    {"title": "Step 2:  The Network Host APIs",
+    {"title": "Step 2: Understand Network Host APIs",
      "file": "2.md"},
-    {"title": "Step 3: Using Path Trace",
+    {"title": "Step 3: Use Path Trace",
      "file": "3.md"}
   ],
   "authors": [
