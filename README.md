@@ -6,13 +6,15 @@ Labs are written to be displayed within the [Cisco DevNet Learning Labs system](
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
-Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system. 
+Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system.
 
 The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
 
 ## About these Learning Labs
 
-By default, these lab files are configured to send API calls to a sandboxed Cisco DevNet APIC-EM controller at https://sandboxapicem.cisco.com. You can learn the basics of the APIC-EM API, learn policy-based APIC-EM APIs and how to use them, and how to write custom Python code to communicate with the controller.
+For this repository, this set of learning labs help you learn the basics of the APIC-EM API, learn policy-based APIC-EM APIs and how to use them, and learn how to write custom Python code to communicate with the controller. By default, these lab files are configured to send API calls to a sandboxed Cisco DevNet APIC-EM controller at https://sandboxapicem.cisco.com.
+
+If you need more help, reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
 
 ## Contributing
 
@@ -46,5 +48,3 @@ You can validate a JSON file by using the [online formatter and validator](https
 
 * If you'd like to contribute to an existing lab, refer to [contributing.md](contributing.md).
 * If you're interested in creating a new Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.
-
-
