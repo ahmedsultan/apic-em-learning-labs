@@ -16,11 +16,11 @@
   ],
   "poweredBy": "<a href='https://developer.cisco.com/site/devnet/sandbox/' target=_blank>DevNet Sandbox</a>",
   "files": [
-    {"title": "Learn the basics of the APIC-EM REST API",
+    {"title": "Step 1: Learn the basics of the APIC-EM REST API",
      "file": "1.md"},
-    {"title": "Lab 1: Generate and use a new service ticket",
+    {"title": "Step 2: Generate and use a new service ticket",
      "file": "2.md"},
-    {"title": "Lab 2: Network Device Related APIs",
+    {"title": "Step 3: Use network device-related APIs",
      "file": "3.md"}
   ],
   "authors": [
