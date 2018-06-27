@@ -6,7 +6,7 @@ Labs are written to be displayed within the [Cisco DevNet Learning Labs system](
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
-Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system. 
+Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system.
 
 The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
 
@@ -20,7 +20,7 @@ These learning modules are for public consumption, so you must ensure that you h
 
 Write your content in Markdown. DevNet staff reviews content according to the [Cisco Style Guide](http://www-author.cisco.com/c/en/us/td/docs/general/style/guide/Latest/stylegd.html). (Link available on Cisco VPN only.)
 
-#### Publishing Requirements
+#### Publishing requirements
 
 To create and publish a new lab, take the following steps:
 - Add a new folder under `labs`.
@@ -42,9 +42,7 @@ You can write Markdown in a plain text editor, but there are many desktop and We
 
 You can validate a JSON file by using the [online formatter and validator](https://jsonformatter.curiousconcept.com).
 
-## Getting Involved
+## Getting involved
 
 * If you'd like to contribute to an existing lab, refer to [contributing.md](contributing.md).
 * If you're interested in creating a new Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.
-
-
