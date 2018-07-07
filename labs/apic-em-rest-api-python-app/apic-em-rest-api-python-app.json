@@ -1,17 +1,17 @@
 {
   "labId": "apic-em-rest-api-python-app",
-  "title": "APIC-EM REST API with POSTMAN and Python Applications",
-  "slug": "Learn how to call APIC-EM's REST APIs using POSTMAN and the Python programming language.",
+  "title": "APIC-EM REST API with Postman and Python applications",
+  "slug": "Learn how to call APIC-EM's REST APIs using Postman and the Python programming language.",
   "time": 35,
   "byod": true,
   "files": [
-    {"title": "APIC-EM REST API",
+    {"title": "Step 1: Connect to APIC-EM",
      "file": "1.md"},
-    {"title": "Step 2. Generating Code Using Postman",
+    {"title": "Step 2: Generate code using Postman",
      "file": "2.md"},
-    {"title": "Step 3. Writing a Python Script",
+    {"title": "Step 3: Write a Python script",
      "file": "3.md"},
-    {"title": "Step 4. The Python Application",
+    {"title": "Step 4: Build the Python application",
       "file": "4.md"}
   ],
   "tags": [
