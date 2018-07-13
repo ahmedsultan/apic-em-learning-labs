@@ -1,6 +1,6 @@
-## Cisco DevNet Learning Labs: APIC-EM APIs
+## Cisco DevNet Learning Labs: Network Controllers
 
-These self-paced interactive tutorials provide instructions for developers to learn the basics of the APIC-EM API calls and how to write custom scripts in Python that make APIC-EM API calls.
+These self-paced interactive tutorials provide instructions for developers to Learn about developing with network controllers like APIC-EM.
 
 Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
@@ -15,6 +15,23 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 For this repository, this set of learning labs help you learn the basics of the APIC-EM API, learn policy-based APIC-EM APIs and how to use them, and learn how to write custom Python code to communicate with the controller. By default, these lab files are configured to send API calls to a sandboxed Cisco DevNet APIC-EM controller at https://sandboxapicem.cisco.com.
 
 If you need more help, reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
+
+## Preview Learning Lab Markdown locally
+
+You can preview how the Markdown renders by using a pre-built Docker image. The `Makefile` in the root of the repository lets you run `make preview` to view the output HTML.
+
+1. Make sure you have Docker installed locally. If not, [install Docker](https://docs.docker.com/install/) for your operating system.
+```
+$ docker -v
+```
+1. In the root of the repository, run:
+```
+$ make preview
+```
+1. Open a browser window with the URL: `http://localhost:9000`.
+1. Click a folder to find the Markdown file you want to preview.
+1. When you are done previewing, type `Ctrl+C` to stop running the Docker container.
+
 
 ## Contributing
 
