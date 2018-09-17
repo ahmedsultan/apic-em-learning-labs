@@ -27,6 +27,5 @@
   	{"name": "yawchen", "email": "yawchen@cisco.com"}
   ],
   "byod": true,
-  "redirectTo": "dnac-basic",
   "active": true
 }
